@@ -1,5 +1,2 @@
-libraries used : tkinter
-		 messagebox
-		 PIL
-		 moviepy
-		 os
+Pillow>=9.0.0
+moviepy>=1.0.3
